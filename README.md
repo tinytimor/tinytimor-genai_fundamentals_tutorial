@@ -1,7 +1,7 @@
 # GenAI Fundamentals Tutorial
 
-![Screenshot 2024-04-26 at 1 49 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/a554615d-e8f3-4df8-bf67-cb8c0d5e563e)
 
+![Screenshot 2024-04-26 at 1 50 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/5dd9e2e7-18b7-4220-b508-b4c738c415cf)
 
 The repository serves as a resource for learning about Generative AI. 
 
