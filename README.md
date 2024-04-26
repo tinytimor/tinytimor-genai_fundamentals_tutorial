@@ -1,4 +1,7 @@
-# tinytimor-genai_fundamentals_tutorial
+# GenAI Fundamentals Tutorial
+
+![Screenshot 2024-04-26 at 1 49 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/a554615d-e8f3-4df8-bf67-cb8c0d5e563e)
+
 
 The repository serves as a resource for learning about Generative AI. 
 
@@ -14,8 +17,9 @@ In the first notebook (`tutorial1_implementation_rag.ipynb`) of this repository,
 
 ### Prerequisites
 
-Ensure you have Python installed on your system. This tutorial is tested on Python 3.8+.
++ Ensure you have Python installed on your system. This tutorial is tested on Python 3.8+.
++ Generate [OpenAI API key](https://openai.com/)
 
 ### Installation
-1. Clone the repository to your local machine: `git clone `
+1. Clone the repository to your local machine: `git clone https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial.git`
 2. Install the required Python packages: `pip install -r requirements.txt`
