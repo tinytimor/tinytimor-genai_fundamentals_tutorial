@@ -1,11 +1,11 @@
 # GenAI Fundamentals Tutorial
 
-
-![Screenshot 2024-04-26 at 1 50 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/5dd9e2e7-18b7-4220-b508-b4c738c415cf)
-
 The repository serves as a resource for learning about Generative AI. 
 
 In the first notebook (`tutorial1_implementation_rag.ipynb`) of this repository, the tutorial is designed to teach the implementation of Vector Databases, Retrieval Augmented Generation (RAG), and Large Language Models (LLMs) with Python. It leverages Python's LangChain, OpenAI's API, and ChromaDB libraries. For user engagement, the tutorial is centered around a clinical case study to showcase practical applications in healthcare data analytics.
+
+![Screenshot 2024-04-26 at 1 50 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/5dd9e2e7-18b7-4220-b508-b4c738c415cf)
+
 
 ## Contents - 🚧 Work in Progress 🚧
 
