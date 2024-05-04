@@ -2,7 +2,7 @@
 
 The repository serves as a resource for learning about Generative AI for all levels of Python programmers. 
 
-The Python code leverages LangChain, OpenAI's API, ChromaDB, Sqlite libraries. For user engagement, the tutorial is centered around a clinical case study to showcase practical applications in healthcare data analytics.
+The Python code leverages LangChain, OpenAI's API, ChromaDB, Sqlite libraries. For user engagement, the tutorial is centered around clinical case studies to showcase practical applications of Generative AI in healthcare and biomedical data science.
 
 ![Screenshot 2024-04-26 at 1 50 18 PM](https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial/assets/108763451/5dd9e2e7-18b7-4220-b508-b4c738c415cf)
 
