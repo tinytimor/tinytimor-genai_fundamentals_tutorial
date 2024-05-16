@@ -36,4 +36,5 @@ The Python code leverages LangChain, OpenAI's API, Anthropic's API, Google Gemin
 
 ### Installation
 1. Clone the repository to your local machine: `git clone https://github.com/tinytimor/tinytimor-genai_fundamentals_tutorial.git`
-2. Install the required Python packages: `pip install -r requirements.txt`
+2. Enter into the downloaded repository that is on your local machine: `cd tinytimor-genai_fundamentals_tutorial`
+3. Install the required Python packages: `pip install -r requirements.txt`
